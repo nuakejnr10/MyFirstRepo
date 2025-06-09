@@ -1,4 +1,4 @@
-what I have learned from this course
+What I have learned from this course
 
 - Forking repositories
 - Creating branches
