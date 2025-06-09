@@ -1,0 +1,6 @@
+what I have learned from this course
+
+- Forking repositories
+- Creating branches
+- Making pull requests
+- Collaborating on GitHub
